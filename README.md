@@ -1,1 +1,2 @@
 # Falcon stylesheets
+include assets
